@@ -1,0 +1,13 @@
+Name: Jennifer Long
+
+Problem 8b
+This application is about the parts supplied by suppliers to projects.
+This defines an N-ary relationship between parts, suppliers, and projects.
+
+This N-ary relationship is shown in Design A. Suppliers can supply Parts 
+with a specific qty and price to Projects.
+
+However, Design B incorporates only binary relationships between Suppliers
+and Parts, Projects and Parts, and Suppliers and Projects. There is no way
+to determine the amount of parts supplied by a supplier to a specific 
+project.
